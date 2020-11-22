@@ -1,7 +1,7 @@
 pipeline {
    agent any
    stages{
-       stage('git clone'){
+       stage(  'git clone  example'){
            steps{
                git 'https://github.com/devops-surya/game-of-life.git'
            }        
