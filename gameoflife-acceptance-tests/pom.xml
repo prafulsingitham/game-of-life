@@ -58,6 +58,7 @@
             <version>1.6.1</version>
             <scope>test</scope>
         </dependency>
+## to know name
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
